@@ -1,2 +1,2 @@
-['Push code to GitHub', 'Buy Silksong']
-['Write code']
+['Drink Water', 'Play Silksong']
+['Touch Grass']
